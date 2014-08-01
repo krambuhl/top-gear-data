@@ -52,7 +52,8 @@
     "rank": 8,
     "time": "01:17.6",
     "seconds": 77.6,
-    "vehicle": "Koenigsegg CCX"
+    "vehicle": "Koenigsegg CCX",
+    "weather": "dry"
   },
   {
     "rank": 9,
@@ -65,13 +66,15 @@
     "rank": 10,
     "time": "01:17.8",
     "seconds": 77.8,
-    "vehicle": "Nissan GT-R"
+    "vehicle": "Nissan GT-R",
+    "weather": "dry"
   },
   {
     "rank": 11,
     "time": "01:17.8",
     "seconds": 77.8,
-    "vehicle": "Pagani Zonda Roadster F"
+    "vehicle": "Pagani Zonda Roadster F",
+    "weather": "dry"
   },
   {
     "rank": 12,
@@ -187,7 +190,8 @@
     "rank": 30,
     "time": "01:20.4",
     "seconds": 80.4,
-    "vehicle": "Koenigsegg CCX"
+    "vehicle": "Koenigsegg CCX",
+    "weather": "dry"
   },
   {
     "rank": 31,
@@ -262,7 +266,8 @@
     "rank": 42,
     "time": "01:22.3",
     "seconds": 82.3,
-    "vehicle": "Porsche 911 GT3 RS"
+    "vehicle": "Porsche 911 GT3 RS",
+    "weather": "dry"
   },
   {
     "rank": 43,
@@ -305,7 +310,8 @@
     "rank": 49,
     "time": "01:23.1",
     "seconds": 83.1,
-    "vehicle": "KTM X-Bow"
+    "vehicle": "KTM X-Bow",
+    "weather": "dry"
   },
   {
     "rank": 50,
@@ -335,7 +341,8 @@
     "rank": 54,
     "time": "01:23.7",
     "seconds": 83.7,
-    "vehicle": "Lamborghini Murciélago"
+    "vehicle": "Lamborghini Murciélago",
+    "weather": "dry"
   },
   {
     "rank": 55,
@@ -372,7 +379,8 @@
     "rank": 60,
     "time": "01:24.3",
     "seconds": 84.3,
-    "vehicle": "Prodrive P2"
+    "vehicle": "Prodrive P2",
+    "weather": "dry"
   },
   {
     "rank": 61,
@@ -471,7 +479,8 @@
     "rank": 76,
     "time": "01:25.3",
     "seconds": 85.3,
-    "vehicle": "BMW M3"
+    "vehicle": "BMW M3",
+    "weather": "dry"
   },
   {
     "rank": 77,
@@ -520,13 +529,15 @@
     "rank": 84,
     "time": "01:26.0",
     "seconds": 86,
-    "vehicle": "BMW Z4 M roadster"
+    "vehicle": "BMW Z4 M roadster",
+    "weather": "dry"
   },
   {
     "rank": 85,
     "time": "01:26.0",
     "seconds": 86,
-    "vehicle": "Noble M400"
+    "vehicle": "Noble M400",
+    "weather": "dry"
   },
   {
     "rank": 86,
@@ -538,7 +549,8 @@
     "rank": 87,
     "time": "01:26.2",
     "seconds": 86.2,
-    "vehicle": "BMW M5"
+    "vehicle": "BMW M5",
+    "weather": "dry"
   },
   {
     "rank": 88,
@@ -595,7 +607,8 @@
     "rank": 96,
     "time": "01:26.8",
     "seconds": 86.8,
-    "vehicle": "Aston Martin V12 Vantage"
+    "vehicle": "Aston Martin V12 Vantage",
+    "weather": "dry"
   },
   {
     "rank": 97,
@@ -625,7 +638,8 @@
     "rank": 101,
     "time": "01:27.0",
     "seconds": 87,
-    "vehicle": "KTM X-Bow"
+    "vehicle": "KTM X-Bow",
+    "weather": "dry"
   },
   {
     "rank": 102,
@@ -663,7 +677,8 @@
     "rank": 107,
     "time": "01:27.3",
     "seconds": 87.3,
-    "vehicle": "Spyker C8 Spyder"
+    "vehicle": "Spyker C8 Spyder",
+    "weather": "dry"
   },
   {
     "rank": 108,
@@ -739,7 +754,8 @@
     "rank": 119,
     "time": "01:28.2",
     "seconds": 88.2,
-    "vehicle": "BMW Z4 sDrive35i"
+    "vehicle": "BMW Z4 sDrive35i",
+    "weather": "dry"
   },
   {
     "rank": 120,
@@ -789,7 +805,8 @@
     "rank": 127,
     "time": "01:28.6",
     "seconds": 88.6,
-    "vehicle": "Volkswagen Golf GTI Mk7"
+    "vehicle": "Volkswagen Golf GTI Mk7",
+    "weather": "dry"
   },
   {
     "rank": 128,
@@ -846,7 +863,8 @@
     "rank": 136,
     "time": "01:29.2",
     "seconds": 89.2,
-    "vehicle": "BMW M5"
+    "vehicle": "BMW M5",
+    "weather": "dry"
   },
   {
     "rank": 137,
@@ -870,7 +888,8 @@
     "rank": 140,
     "time": "01:29.6",
     "seconds": 89.6,
-    "vehicle": "Volkswagen Golf GTI Mk VII"
+    "vehicle": "Volkswagen Golf GTI Mk VII",
+    "weather": "dry"
   },
   {
     "rank": 141,
@@ -925,7 +944,8 @@
     "rank": 149,
     "time": "01:30.4",
     "seconds": 90.4,
-    "vehicle": "Aston Martin DB7 GT"
+    "vehicle": "Aston Martin DB7 GT",
+    "weather": "dry"
   },
   {
     "rank": 150,
@@ -1028,7 +1048,8 @@
     "rank": 165,
     "time": "01:31.9",
     "seconds": 91.9,
-    "vehicle": "BMW 130i"
+    "vehicle": "BMW 130i",
+    "weather": "dry"
   },
   {
     "rank": 166,
@@ -1090,13 +1111,15 @@
     "rank": 175,
     "time": "01:32.8",
     "seconds": 92.8,
-    "vehicle": "Honda Civic Type-R"
+    "vehicle": "Honda Civic Type-R",
+    "weather": "dry"
   },
   {
     "rank": 176,
     "time": "01:32.8",
     "seconds": 92.8,
-    "vehicle": "Jaguar E-Type"
+    "vehicle": "Jaguar E-Type",
+    "weather": "dry"
   },
   {
     "rank": 177,
@@ -1161,7 +1184,8 @@
     "rank": 186,
     "time": "01:33.5",
     "seconds": 93.5,
-    "vehicle": "Honda Civic Type-R"
+    "vehicle": "Honda Civic Type-R",
+    "weather": "dry"
   },
   {
     "rank": 187,
@@ -1211,7 +1235,8 @@
     "rank": 194,
     "time": "01:34.0",
     "seconds": 94,
-    "vehicle": "Renault Clio 200 Cup"
+    "vehicle": "Renault Clio 200 Cup",
+    "weather": "dry"
   },
   {
     "rank": 195,
@@ -1262,7 +1287,8 @@
     "rank": 202,
     "time": "01:35.4",
     "seconds": 95.4,
-    "vehicle": "Renault Avantime"
+    "vehicle": "Renault Avantime",
+    "weather": "dry"
   },
   {
     "rank": 203,
@@ -1320,7 +1346,8 @@
     "rank": 211,
     "time": "01:37.0",
     "seconds": 97,
-    "vehicle": "Mercedes-Benz SL500"
+    "vehicle": "Mercedes-Benz SL500",
+    "weather": "dry"
   },
   {
     "rank": 212,
@@ -1360,7 +1387,8 @@
     "rank": 217,
     "time": "01:38.06",
     "seconds": 98.6,
-    "vehicle": "Honda Civic Type-R"
+    "vehicle": "Honda Civic Type-R",
+    "weather": "dry"
   },
   {
     "rank": 218,
@@ -1373,7 +1401,8 @@
     "rank": 219,
     "time": "01:39.0",
     "seconds": 99,
-    "vehicle": "Subaru Impreza WRX"
+    "vehicle": "Subaru Impreza WRX",
+    "weather": "dry"
   },
   {
     "rank": 220,
@@ -1410,7 +1439,8 @@
     "rank": 225,
     "time": "01:43.2",
     "seconds": 103.2,
-    "vehicle": "BMW 318i"
+    "vehicle": "BMW 318i",
+    "weather": "dry"
   },
   {
     "rank": 226,
@@ -1455,24 +1485,28 @@
     "rank": 232,
     "time": "18:37.0",
     "seconds": 1117,
-    "vehicle": "Porsche Pain Au Chocolat"
+    "vehicle": "Porsche Pain Au Chocolat",
+    "weather": "dry"
   },
   {
     "rank": 233,
     "time": "DNF",
     "seconds": "DNF",
-    "vehicle": "Porsche 959"
+    "vehicle": "Porsche 959",
+    "weather": "dry"
   },
   {
     "rank": 234,
     "time": "DNF",
     "seconds": "DNF",
-    "vehicle": "Reliant Robin"
+    "vehicle": "Reliant Robin",
+    "weather": "dry"
   },
   {
     "rank": 235,
     "time": "DNS",
     "seconds": "DNS",
-    "vehicle": "Ferrari F40"
+    "vehicle": "Ferrari F40",
+    "weather": "dry"
   }
 ]

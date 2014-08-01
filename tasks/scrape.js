@@ -63,7 +63,7 @@ function detectWeather(note) {
 		}
 	});
 
-	return res;
+	return res ? res : 'dry';
 }
 
 function detectPassenger(note) {
@@ -187,8 +187,6 @@ function scrapePowerData(table) {
 
 			if (rawdata.notes) {
 				power.weather = detectWeather(rawdata.notes);
-				if (_.isUndefined(power.weather)) delete power.weather;
-
 			}
 
 			laps.push(power);
