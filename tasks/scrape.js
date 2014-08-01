@@ -19,7 +19,6 @@ function listItems2collection(items) {
 			name: raw[1].attribs.title,
 			time: time,
 			seconds: laptime2seconds(time),
-			note: '',
 			weather: 'dry',
 			passenger: false,
 			automatic: false,
