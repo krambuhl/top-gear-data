@@ -15,7 +15,7 @@ function listItems2collection(items) {
 		var note = raw[2] && raw[2].data && raw[2].data !== ' ' ? raw[2].data.replace(/[()]/g,'').trim() : undefined;
 
 		var model = {
-			position: index,
+			rank: index,
 			name: raw[1].attribs.title,
 			time: time,
 			seconds: laptime2seconds(time),
@@ -180,7 +180,7 @@ function scrapePowerData(table) {
 			var time = cells.children()[0].children[0].data;
 
 			power = {
-				position: i - 1,
+				rank: i - 1,
 				time: time,
 				seconds: laptime2seconds(time),
 				vehicle: rawdata.vehicle
