@@ -10,6 +10,10 @@
         "name": "Ellen MacArthur",
         "time": "1:46.7",
         "seconds": 106.7,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Ellen_MacArthur"
       },
       {
@@ -17,6 +21,10 @@
         "name": "Jimmy Carr",
         "time": "1:46.9",
         "seconds": 106.9,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jimmy_Carr"
       },
       {
@@ -24,6 +32,10 @@
         "name": "Simon Cowell",
         "time": "1:47.1",
         "seconds": 107.1,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Simon_Cowell"
       },
       {
@@ -31,6 +43,10 @@
         "name": "Ronnie O'Sullivan",
         "time": "1:47.3",
         "seconds": 107.3,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Ronnie_O%27Sullivan"
       },
       {
@@ -38,6 +54,10 @@
         "name": "Ian Wright",
         "time": "1:47.8",
         "seconds": 107.8,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Ian_Wright"
       },
       {
@@ -45,6 +65,10 @@
         "name": "Chris Evans (presenter)",
         "time": "1:47.9",
         "seconds": 107.9,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Chris_Evans_(presenter)"
       },
       {
@@ -52,6 +76,10 @@
         "name": "Rory Bremner",
         "time": "1:47.9",
         "seconds": 107.9,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Rory_Bremner"
       },
       {
@@ -59,6 +87,10 @@
         "name": "Trevor Eve",
         "time": "1:48.0",
         "seconds": 108,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Trevor_Eve"
       },
       {
@@ -66,6 +98,10 @@
         "name": "Justin Hawkins",
         "time": "1:48.0",
         "seconds": 108,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Justin_Hawkins"
       },
       {
@@ -73,6 +109,10 @@
         "name": "Paul McKenna",
         "time": "1:48.0",
         "seconds": 108,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Paul_McKenna"
       },
       {
@@ -80,6 +120,10 @@
         "name": "Jodie Kidd",
         "time": "1:48.0",
         "seconds": 108,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jodie_Kidd"
       },
       {
@@ -87,6 +131,10 @@
         "name": "Jason Kay",
         "time": "1:48.0",
         "seconds": 108,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jason_Kay"
       },
       {
@@ -94,6 +142,10 @@
         "name": "Patrick Kielty",
         "time": "1:48.0",
         "seconds": 108,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Patrick_Kielty"
       },
       {
@@ -101,6 +153,10 @@
         "name": "Rob Brydon",
         "time": "1:48.6",
         "seconds": 108.6,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Rob_Brydon"
       },
       {
@@ -108,6 +164,10 @@
         "name": "Stephen Ladyman",
         "time": "1:48.8",
         "seconds": 108.8,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Stephen_Ladyman"
       },
       {
@@ -115,6 +175,10 @@
         "name": "Neil Morrissey",
         "time": "1:49.0",
         "seconds": 109,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Neil_Morrissey"
       },
       {
@@ -122,6 +186,10 @@
         "name": "Roger Daltrey",
         "time": "1:49.7",
         "seconds": 109.7,
+        "note": "mildly moist",
+        "state": "mildly moist",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Roger_Daltrey"
       },
       {
@@ -129,6 +197,10 @@
         "name": "Martin Clunes",
         "time": "1:50.0",
         "seconds": 110,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Martin_Clunes"
       },
       {
@@ -136,6 +208,10 @@
         "name": "Jeremy Clarkson",
         "time": "1:50.0",
         "seconds": 110,
+        "note": "with passengers",
+        "state": "dry",
+        "passenger": true,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jeremy_Clarkson"
       },
       {
@@ -143,6 +219,10 @@
         "name": "Lionel Richie",
         "time": "1:50.0",
         "seconds": 110,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Lionel_Richie"
       },
       {
@@ -150,6 +230,10 @@
         "name": "Cliff Richard",
         "time": "1:50.0",
         "seconds": 110,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Cliff_Richard"
       },
       {
@@ -157,6 +241,10 @@
         "name": "Patrick Stewart",
         "time": "1:50.0",
         "seconds": 110,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Patrick_Stewart"
       },
       {
@@ -164,6 +252,10 @@
         "name": "Jamie Oliver",
         "time": "1:50.0",
         "seconds": 110,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jamie_Oliver"
       },
       {
@@ -171,6 +263,10 @@
         "name": "Gordon Ramsay",
         "time": "1:50.0",
         "seconds": 110,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Gordon_Ramsay"
       },
       {
@@ -178,6 +274,10 @@
         "name": "David Walliams",
         "time": "1:50.7",
         "seconds": 110.7,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/David_Walliams"
       },
       {
@@ -185,6 +285,10 @@
         "name": "Ranulph Fiennes",
         "time": "1:51.0",
         "seconds": 111,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Ranulph_Fiennes"
       },
       {
@@ -192,6 +296,10 @@
         "name": "Timothy Spall",
         "time": "1:51.1",
         "seconds": 111.1,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Timothy_Spall"
       },
       {
@@ -199,6 +307,10 @@
         "name": "Carol Vorderman",
         "time": "1:51.2",
         "seconds": 111.2,
+        "note": "mildly moist",
+        "state": "mildly moist",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Carol_Vorderman"
       },
       {
@@ -206,6 +318,10 @@
         "name": "James Nesbitt",
         "time": "1:51.3",
         "seconds": 111.3,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/James_Nesbitt"
       },
       {
@@ -213,6 +329,10 @@
         "name": "Christian Slater",
         "time": "1:51.4",
         "seconds": 111.4,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Christian_Slater"
       },
       {
@@ -220,6 +340,10 @@
         "name": "Joanna Lumley",
         "time": "1:51.5",
         "seconds": 111.5,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Joanna_Lumley"
       },
       {
@@ -227,6 +351,10 @@
         "name": "Omid Djalili",
         "time": "1:51.5",
         "seconds": 111.5,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Omid_Djalili"
       },
       {
@@ -234,6 +362,10 @@
         "name": "Sanjeev Bhaskar",
         "time": "1:51.5",
         "seconds": 111.5,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Sanjeev_Bhaskar"
       },
       {
@@ -241,6 +373,10 @@
         "name": "David Dimbleby",
         "time": "1:52.0",
         "seconds": 112,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/David_Dimbleby"
       },
       {
@@ -248,6 +384,10 @@
         "name": "Rick Parfitt",
         "time": "1:52.0",
         "seconds": 112,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Rick_Parfitt"
       },
       {
@@ -255,6 +395,10 @@
         "name": "Eddie Izzard",
         "time": "1:52.0",
         "seconds": 112,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Eddie_Izzard"
       },
       {
@@ -262,6 +406,10 @@
         "name": "Jordan (Katie Price)",
         "time": "1:52.0",
         "seconds": 112,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jordan_(Katie_Price)"
       },
       {
@@ -269,6 +417,10 @@
         "name": "Christopher Eccleston",
         "time": "1:52.4",
         "seconds": 112.4,
+        "note": "automatic",
+        "state": "dry",
+        "passenger": false,
+        "automatic": true,
         "url": "http://en.wikipedia.org/wiki/Christopher_Eccleston"
       },
       {
@@ -276,6 +428,10 @@
         "name": "Tim Rice",
         "time": "1:52.7",
         "seconds": 112.7,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Tim_Rice"
       },
       {
@@ -283,6 +439,10 @@
         "name": "Vinnie Jones",
         "time": "1:53.0",
         "seconds": 113,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Vinnie_Jones"
       },
       {
@@ -290,6 +450,10 @@
         "name": "Johnny Vaughan",
         "time": "1:53.2",
         "seconds": 113.2,
+        "note": "with passenger",
+        "state": "dry",
+        "passenger": true,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Johnny_Vaughan"
       },
       {
@@ -297,6 +461,10 @@
         "name": "Fay Ripley",
         "time": "1:53.3",
         "seconds": 113.3,
+        "note": "midly moist",
+        "state": "moist",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Fay_Ripley"
       },
       {
@@ -304,6 +472,10 @@
         "name": "Bill Bailey",
         "time": "1:53.4",
         "seconds": 113.4,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Bill_Bailey"
       },
       {
@@ -311,6 +483,10 @@
         "name": "Jack Dee",
         "time": "1:53.5",
         "seconds": 113.5,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jack_Dee"
       },
       {
@@ -318,6 +494,10 @@
         "name": "Steve Coogan",
         "time": "1:54.0",
         "seconds": 114,
+        "note": "wet, originally stated to be 1:53",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Steve_Coogan"
       },
       {
@@ -325,6 +505,10 @@
         "name": "Ross Kemp",
         "time": "1:54.0",
         "seconds": 114,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Ross_Kemp"
       },
       {
@@ -332,6 +516,10 @@
         "name": "Alan Davies",
         "time": "1:54.0",
         "seconds": 114,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Alan_Davies"
       },
       {
@@ -339,6 +527,10 @@
         "name": "Stephen Fry",
         "time": "1:54.0",
         "seconds": 114,
+        "note": "moist",
+        "state": "moist",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Stephen_Fry"
       },
       {
@@ -346,6 +538,10 @@
         "name": "Tara Palmer-Tomkinson",
         "time": "1:54.0",
         "seconds": 114,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Tara_Palmer-Tomkinson"
       },
       {
@@ -353,6 +549,10 @@
         "name": "David Soul",
         "time": "1:54.0",
         "seconds": 114,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/David_Soul"
       },
       {
@@ -360,6 +560,10 @@
         "name": "Rich Hall",
         "time": "1:54.0",
         "seconds": 114,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Rich_Hall"
       },
       {
@@ -367,6 +571,10 @@
         "name": "Martin Kemp (actor)",
         "time": "1:54.0",
         "seconds": 114,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Martin_Kemp_(actor)"
       },
       {
@@ -374,6 +582,10 @@
         "name": "Trinny Woodall",
         "time": "1:54.1",
         "seconds": 114.1,
+        "note": "very wet, with passenger",
+        "state": "very wet",
+        "passenger": true,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Trinny_Woodall"
       },
       {
@@ -381,6 +593,10 @@
         "name": "Michael Gambon",
         "time": "1:55.0",
         "seconds": 115,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Michael_Gambon"
       },
       {
@@ -388,6 +604,10 @@
         "name": "Geri Halliwell",
         "time": "1:55.4",
         "seconds": 115.4,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Geri_Halliwell"
       },
       {
@@ -395,6 +615,10 @@
         "name": "Susannah Constantine",
         "time": "1:55.7",
         "seconds": 115.7,
+        "note": "very wet, with passenger",
+        "state": "very wet",
+        "passenger": true,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Susannah_Constantine"
       },
       {
@@ -402,6 +626,10 @@
         "name": "Boris Johnson",
         "time": "1:56.0",
         "seconds": 116,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Boris_Johnson"
       },
       {
@@ -409,6 +637,10 @@
         "name": "Anne Robinson",
         "time": "1:57.0",
         "seconds": 117,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Anne_Robinson"
       },
       {
@@ -416,6 +648,10 @@
         "name": "Jonathan Ross (television presenter)",
         "time": "1:57.0",
         "seconds": 117,
+        "note": "penalised for cutting a corner",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jonathan_Ross_(television_presenter)"
       },
       {
@@ -423,6 +659,10 @@
         "name": "Davina McCall",
         "time": "1:57.1",
         "seconds": 117.1,
+        "note": "very wet",
+        "state": "very wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Davina_McCall"
       },
       {
@@ -430,6 +670,10 @@
         "name": "Johnny Vegas",
         "time": "1:58.6",
         "seconds": 118.6,
+        "note": "provisionally licensed",
+        "state": "ice",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Johnny_Vegas"
       },
       {
@@ -437,6 +681,10 @@
         "name": "Harry Enfield",
         "time": "2:01.0",
         "seconds": 121,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Harry_Enfield"
       },
       {
@@ -444,6 +692,10 @@
         "name": "Billy Baxter (motorcyclist)",
         "time": "2:02.0",
         "seconds": 122,
+        "note": "blind man with Clarkson as passenger guide",
+        "state": "dry",
+        "passenger": true,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Billy_Baxter_(motorcyclist)"
       },
       {
@@ -451,6 +703,10 @@
         "name": "Terry Wogan",
         "time": "2:03.4",
         "seconds": 123.4,
+        "note": "originally listed as 2:04",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Terry_Wogan"
       },
       {
@@ -458,6 +714,10 @@
         "name": "Richard Whiteley",
         "time": "2:06.0",
         "seconds": 126,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Richard_Whiteley"
       }
     ]
@@ -473,6 +733,10 @@
         "name": "Jay Kay",
         "time": "1:45.81",
         "seconds": 113.1,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jay_Kay"
       },
       {
@@ -480,6 +744,10 @@
         "name": "Brian Johnson",
         "time": "1:45.85",
         "seconds": 113.5,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Brian_Johnson"
       },
       {
@@ -487,6 +755,10 @@
         "name": "Kevin McCloud",
         "time": "1:45.87",
         "seconds": 113.7,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Kevin_McCloud"
       },
       {
@@ -494,6 +766,10 @@
         "name": "Simon Cowell",
         "time": "1:45.9",
         "seconds": 105.9,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Simon_Cowell"
       },
       {
@@ -501,6 +777,10 @@
         "name": "Jennifer Saunders",
         "time": "1:46.1",
         "seconds": 106.1,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jennifer_Saunders"
       },
       {
@@ -508,6 +788,10 @@
         "name": "Michael Sheen",
         "time": "1:46.3",
         "seconds": 106.3,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Michael_Sheen"
       },
       {
@@ -515,6 +799,10 @@
         "name": "Gordon Ramsay",
         "time": "1:46.3",
         "seconds": 106.3,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Gordon_Ramsay"
       },
       {
@@ -522,6 +810,10 @@
         "name": "Usain Bolt",
         "time": "1:46.5",
         "seconds": 106.5,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Usain_Bolt"
       },
       {
@@ -529,6 +821,10 @@
         "name": "Peter Jones (entrepreneur)",
         "time": "1:46.9",
         "seconds": 106.9,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Peter_Jones_(entrepreneur)"
       },
       {
@@ -536,6 +832,10 @@
         "name": "Trevor Eve",
         "time": "1:47.0",
         "seconds": 107,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Trevor_Eve"
       },
       {
@@ -543,6 +843,10 @@
         "name": "Peter Firth",
         "time": "1:47.1",
         "seconds": 107.1,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Peter_Firth"
       },
       {
@@ -550,6 +854,10 @@
         "name": "Lawrence Dallaglio",
         "time": "1:47.4",
         "seconds": 107.4,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Lawrence_Dallaglio"
       },
       {
@@ -557,6 +865,10 @@
         "name": "Les Ferdinand",
         "time": "1:47.4",
         "seconds": 107.4,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Les_Ferdinand"
       },
       {
@@ -564,6 +876,10 @@
         "name": "Eric Bana",
         "time": "1:47.5",
         "seconds": 107.5,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Eric_Bana"
       },
       {
@@ -571,6 +887,10 @@
         "name": "James Hewitt",
         "time": "1:47.6",
         "seconds": 107.6,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/James_Hewitt"
       },
       {
@@ -578,6 +898,10 @@
         "name": "Jamie Oliver",
         "time": "1:47.7",
         "seconds": 107.7,
+        "note": "melted snow and standing water",
+        "state": "melted snow",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jamie_Oliver"
       },
       {
@@ -585,6 +909,10 @@
         "name": "Hugh Grant",
         "time": "1:47.7",
         "seconds": 107.7,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Hugh_Grant"
       },
       {
@@ -592,6 +920,10 @@
         "name": "Ewan McGregor",
         "time": "1:48.0",
         "seconds": 108,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Ewan_McGregor"
       },
       {
@@ -599,6 +931,10 @@
         "name": "Rupert Penry-Jones",
         "time": "1:48.1",
         "seconds": 108.1,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Rupert_Penry-Jones"
       },
       {
@@ -606,6 +942,10 @@
         "name": "Chris Evans (presenter)",
         "time": "1:48.1",
         "seconds": 108.1,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Chris_Evans_(presenter)"
       },
       {
@@ -613,6 +953,10 @@
         "name": "James Blunt",
         "time": "1:48.3",
         "seconds": 108.3,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/James_Blunt"
       },
       {
@@ -620,6 +964,10 @@
         "name": "Billie Piper",
         "time": "1:48.3",
         "seconds": 108.3,
+        "note": "cut corner, penalty not added",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Billie_Piper"
       },
       {
@@ -627,6 +975,10 @@
         "name": "Justin Hawkins",
         "time": "1:48.4",
         "seconds": 108.4,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Justin_Hawkins"
       },
       {
@@ -634,6 +986,10 @@
         "name": "Simon Pegg",
         "time": "1:48.5",
         "seconds": 108.5,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Simon_Pegg"
       },
       {
@@ -641,6 +997,10 @@
         "name": "Theo Paphitis",
         "time": "1:48.5",
         "seconds": 108.5,
+        "note": "written as Theo Pamphlet",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Theo_Paphitis"
       },
       {
@@ -648,6 +1008,10 @@
         "name": "Mark Wahlberg",
         "time": "1:48.7",
         "seconds": 108.7,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Mark_Wahlberg"
       },
       {
@@ -655,6 +1019,10 @@
         "name": "Michael McIntyre",
         "time": "1:48.7",
         "seconds": 108.7,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Michael_McIntyre"
       },
       {
@@ -662,6 +1030,10 @@
         "name": "David Tennant",
         "time": "1:48.8",
         "seconds": 108.8,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/David_Tennant"
       },
       {
@@ -669,6 +1041,10 @@
         "name": "Jay Leno",
         "time": "1:48.8",
         "seconds": 108.8,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jay_Leno"
       },
       {
@@ -676,6 +1052,10 @@
         "name": "Will Young",
         "time": "1:48.9",
         "seconds": 108.9,
+        "note": "damp",
+        "state": "damp",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Will_Young"
       },
       {
@@ -683,6 +1063,10 @@
         "name": "Michael Parkinson",
         "time": "1:49.4",
         "seconds": 109.4,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Michael_Parkinson"
       },
       {
@@ -690,6 +1074,10 @@
         "name": "Ronnie Wood",
         "time": "1:49.6",
         "seconds": 109.6,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Ronnie_Wood"
       },
       {
@@ -697,6 +1085,10 @@
         "name": "Harry Enfield",
         "time": "1:49.7",
         "seconds": 109.7,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Harry_Enfield"
       },
       {
@@ -704,6 +1096,10 @@
         "name": "Sienna Miller",
         "time": "1:49.8",
         "seconds": 109.8,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Sienna_Miller"
       },
       {
@@ -711,6 +1107,10 @@
         "name": "Jools Holland",
         "time": "1:49.9",
         "seconds": 109.9,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jools_Holland"
       },
       {
@@ -718,6 +1118,10 @@
         "name": "Michael Gambon",
         "time": "1:50.3",
         "seconds": 110.3,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Michael_Gambon"
       },
       {
@@ -725,6 +1129,10 @@
         "name": "Alan Davies",
         "time": "1:50.3",
         "seconds": 110.3,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Alan_Davies"
       },
       {
@@ -732,6 +1140,10 @@
         "name": "Steve Coogan",
         "time": "1:50.9",
         "seconds": 110.9,
+        "note": "hot",
+        "state": "hot",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Steve_Coogan"
       },
       {
@@ -739,6 +1151,10 @@
         "name": "Stephen Fry",
         "time": "1:51.0",
         "seconds": 111,
+        "note": "hot",
+        "state": "hot",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Stephen_Fry"
       },
       {
@@ -746,6 +1162,10 @@
         "name": "Alan Carr",
         "time": "1:51.2",
         "seconds": 111.2,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Alan_Carr"
       },
       {
@@ -753,6 +1173,10 @@
         "name": "Ray Winstone",
         "time": "1:51.4",
         "seconds": 111.4,
+        "note": "hot",
+        "state": "hot",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Ray_Winstone"
       },
       {
@@ -760,6 +1184,10 @@
         "name": "Keith Allen (actor)",
         "time": "1:51.7",
         "seconds": 111.7,
+        "note": "very wet",
+        "state": "very wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Keith_Allen_(actor)"
       },
       {
@@ -767,6 +1195,10 @@
         "name": "Rob Brydon",
         "time": "1:51.7",
         "seconds": 111.7,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Rob_Brydon"
       },
       {
@@ -774,6 +1206,10 @@
         "name": "Seasick Steve",
         "time": "1.51.8",
         "seconds": 111.8,
+        "note": "moist",
+        "state": "moist",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Seasick_Steve"
       },
       {
@@ -781,6 +1217,10 @@
         "name": "Justin Lee Collins",
         "time": "1:51.8",
         "seconds": 111.8,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Justin_Lee_Collins"
       },
       {
@@ -788,6 +1228,10 @@
         "name": "Tom Jones (singer)",
         "time": "1:52.2",
         "seconds": 112.2,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Tom_Jones_(singer)"
       },
       {
@@ -795,6 +1239,10 @@
         "name": "Guy Ritchie",
         "time": "1:52.5",
         "seconds": 112.5,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Guy_Ritchie"
       },
       {
@@ -802,6 +1250,10 @@
         "name": "Helen Mirren",
         "time": "1:52.8",
         "seconds": 112.8,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Helen_Mirren"
       },
       {
@@ -809,6 +1261,10 @@
         "name": "James Corden",
         "time": "1:53.4",
         "seconds": 113.4,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/James_Corden"
       },
       {
@@ -816,6 +1272,10 @@
         "name": "Kristin Scott Thomas",
         "time": "1:54.0",
         "seconds": 114,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Kristin_Scott_Thomas"
       },
       {
@@ -823,6 +1283,10 @@
         "name": "Philip Glenister",
         "time": "1:54.3",
         "seconds": 114.3,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Philip_Glenister"
       },
       {
@@ -830,6 +1294,10 @@
         "name": "Kate Silverton",
         "time": "1:54.7",
         "seconds": 114.7,
+        "note": "very wet",
+        "state": "very wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Kate_Silverton"
       },
       {
@@ -837,6 +1305,10 @@
         "name": "Rick Wakeman",
         "time": "1:55.3",
         "seconds": 115.3,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Rick_Wakeman"
       },
       {
@@ -844,6 +1316,10 @@
         "name": "Boris Johnson",
         "time": "1:57.4",
         "seconds": 117.4,
+        "note": "very wet",
+        "state": "very wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Boris_Johnson"
       },
       {
@@ -851,6 +1327,10 @@
         "name": "Fiona Bruce",
         "time": "1:57.4",
         "seconds": 117.4,
+        "note": "very wet",
+        "state": "very wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Fiona_Bruce"
       },
       {
@@ -858,6 +1338,10 @@
         "name": "Brian Cox (actor)",
         "time": "2:01:0",
         "seconds": 121,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Brian_Cox_(actor)"
       },
       {
@@ -865,6 +1349,10 @@
         "name": "Jimmy Carr",
         "time": "2:08.9",
         "seconds": 128.9,
+        "note": "spun off on timed lap",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jimmy_Carr"
       }
     ]
@@ -880,6 +1368,10 @@
         "name": "Matt LeBlanc",
         "time": "1:42.1",
         "seconds": 102.1,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Matt_LeBlanc"
       },
       {
@@ -887,6 +1379,10 @@
         "name": "Rowan Atkinson",
         "time": "1:42.2",
         "seconds": 102.2,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Rowan_Atkinson"
       },
       {
@@ -894,6 +1390,10 @@
         "name": "Michael Fassbender",
         "time": "1:42.8",
         "seconds": 102.8,
+        "note": "ice on the second-to-last corner",
+        "state": "ice",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Michael_Fassbender"
       },
       {
@@ -901,6 +1401,10 @@
         "name": "John Bishop (comedian)",
         "time": "1:42.8",
         "seconds": 102.8,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/John_Bishop_(comedian)"
       },
       {
@@ -908,6 +1412,10 @@
         "name": "Ross Noble",
         "time": "1:43.5",
         "seconds": 103.5,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Ross_Noble"
       },
       {
@@ -915,6 +1423,10 @@
         "name": "James McAvoy",
         "time": "1:43.6",
         "seconds": 103.6,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/James_McAvoy"
       },
       {
@@ -922,6 +1434,10 @@
         "name": "Ryan Reynolds",
         "time": "1:43.7",
         "seconds": 103.7,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Ryan_Reynolds"
       },
       {
@@ -929,6 +1445,10 @@
         "name": "Matt Smith (actor)",
         "time": "1:43.7",
         "seconds": 103.7,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Matt_Smith_(actor)"
       },
       {
@@ -936,6 +1456,10 @@
         "name": "Tom Cruise",
         "time": "1:44.2",
         "seconds": 104.2,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Tom_Cruise"
       },
       {
@@ -943,6 +1467,10 @@
         "name": "Amy Macdonald",
         "time": "1:44.4",
         "seconds": 104.4,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Amy_Macdonald"
       },
       {
@@ -950,6 +1478,10 @@
         "name": "Nick Frost",
         "time": "1:44.5",
         "seconds": 104.5,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Nick_Frost"
       },
       {
@@ -957,6 +1489,10 @@
         "name": "Simon Pegg",
         "time": "1:44.9",
         "seconds": 104.9,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Simon_Pegg"
       },
       {
@@ -964,6 +1500,10 @@
         "name": "Cameron Diaz",
         "time": "1:45.2",
         "seconds": 105.2,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Cameron_Diaz"
       },
       {
@@ -971,6 +1511,10 @@
         "name": "Alex James (musician)",
         "time": "1:45.2",
         "seconds": 105.2,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Alex_James_(musician)"
       },
       {
@@ -978,6 +1522,10 @@
         "name": "Mick Fleetwood",
         "time": "1:45.4",
         "seconds": 105.4,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Mick_Fleetwood"
       },
       {
@@ -985,6 +1533,10 @@
         "name": "Rupert Grint",
         "time": "1:45.5",
         "seconds": 105.5,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Rupert_Grint"
       },
       {
@@ -992,6 +1544,10 @@
         "name": "Peter Jones (entrepreneur)",
         "time": "1:45.9",
         "seconds": 105.9,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Peter_Jones_(entrepreneur)"
       },
       {
@@ -999,6 +1555,10 @@
         "name": "Boris Becker",
         "time": "1:45.9",
         "seconds": 105.9,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Boris_Becker"
       },
       {
@@ -1006,6 +1566,10 @@
         "name": "Andy García",
         "time": "1:46.1",
         "seconds": 106.1,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Andy_Garc%C3%ADa"
       },
       {
@@ -1013,6 +1577,10 @@
         "name": "Bill Turnbull",
         "time": "1.46.8",
         "seconds": 106.8,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Bill_Turnbull"
       },
       {
@@ -1020,6 +1588,10 @@
         "name": "Alastair Campbell",
         "time": "1:47.0",
         "seconds": 107,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Alastair_Campbell"
       },
       {
@@ -1027,6 +1599,10 @@
         "name": "Louis Walsh",
         "time": "1:47.7",
         "seconds": 107.7,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Louis_Walsh"
       },
       {
@@ -1034,6 +1610,10 @@
         "name": "Sophie Raworth",
         "time": "1:47.8",
         "seconds": 107.8,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Sophie_Raworth"
       },
       {
@@ -1041,6 +1621,10 @@
         "name": "Danny Boyle",
         "time": "1:47.8",
         "seconds": 107.8,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Danny_Boyle"
       },
       {
@@ -1048,6 +1632,10 @@
         "name": "Al Murray",
         "time": "1:48.1",
         "seconds": 108.1,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Al_Murray"
       },
       {
@@ -1055,6 +1643,10 @@
         "name": "Bob Geldof",
         "time": "1:48.1",
         "seconds": 108.1,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Bob_Geldof"
       },
       {
@@ -1062,6 +1654,10 @@
         "name": "Jeff Goldblum",
         "time": "1:49.0",
         "seconds": 109,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jeff_Goldblum"
       },
       {
@@ -1069,6 +1665,10 @@
         "name": "Jonathan Ross",
         "time": "1:49.0",
         "seconds": 109,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jonathan_Ross"
       },
       {
@@ -1076,6 +1676,10 @@
         "name": "Will.i.am",
         "time": "1:49.4",
         "seconds": 109.4,
+        "note": "wet automatic",
+        "state": "wet",
+        "passenger": false,
+        "automatic": true,
         "url": "http://en.wikipedia.org/wiki/Will.i.am"
       },
       {
@@ -1083,6 +1687,10 @@
         "name": "Slash (musician)",
         "time": "1:49.8",
         "seconds": 109.8,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Slash_(musician)"
       },
       {
@@ -1090,6 +1698,10 @@
         "name": "Nick Robinson",
         "time": "1:49.9",
         "seconds": 109.9,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Nick_Robinson"
       },
       {
@@ -1097,6 +1709,10 @@
         "name": "Peta Todd",
         "time": "1:49.9",
         "seconds": 109.9,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Peta_Todd"
       },
       {
@@ -1104,6 +1720,10 @@
         "name": "Amber Heard",
         "time": "1:50.3",
         "seconds": 110.3,
+        "note": "automatic",
+        "state": "dry",
+        "passenger": false,
+        "automatic": true,
         "url": "http://en.wikipedia.org/wiki/Amber_Heard"
       },
       {
@@ -1111,6 +1731,10 @@
         "name": "Fiona Bruce",
         "time": "1:50.5",
         "seconds": 110.5,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Fiona_Bruce"
       },
       {
@@ -1118,6 +1742,10 @@
         "name": "Bill Bailey",
         "time": "1:50.8",
         "seconds": 110.8,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Bill_Bailey"
       },
       {
@@ -1125,6 +1753,10 @@
         "name": "Amy Williams",
         "time": "1:50.9",
         "seconds": 110.9,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Amy_Williams"
       },
       {
@@ -1132,6 +1764,10 @@
         "name": "Johnny Vaughan",
         "time": "1:53.3",
         "seconds": 113.3,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Johnny_Vaughan"
       },
       {
@@ -1139,6 +1775,10 @@
         "name": "Louie Spence",
         "time": "1:53.69",
         "seconds": 119.9,
+        "note": "wet",
+        "state": "wet",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Louie_Spence"
       },
       {
@@ -1146,6 +1786,10 @@
         "name": "Alice Cooper",
         "time": "1:56.3",
         "seconds": 116.3,
+        "note": "wet + automatic",
+        "state": "wet",
+        "passenger": false,
+        "automatic": true,
         "url": "http://en.wikipedia.org/wiki/Alice_Cooper"
       },
       {
@@ -1153,6 +1797,10 @@
         "name": "John Prescott",
         "time": "1.56.7",
         "seconds": 116.7,
+        "note": "wet + automatic",
+        "state": "wet",
+        "passenger": false,
+        "automatic": true,
         "url": "http://en.wikipedia.org/wiki/John_Prescott"
       },
       {
@@ -1160,6 +1808,10 @@
         "name": "Damian Lewis",
         "time": "2:09.1",
         "seconds": 129.1,
+        "note": "snow",
+        "state": "snow",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Damian_Lewis"
       }
     ]
@@ -1175,6 +1827,10 @@
         "name": "Aaron Paul",
         "time": "1:44.7",
         "seconds": 104.7,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Aaron_Paul"
       },
       {
@@ -1182,6 +1838,10 @@
         "name": "Brian Johnson",
         "time": "1:45.1",
         "seconds": 105.1,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Brian_Johnson"
       },
       {
@@ -1189,6 +1849,10 @@
         "name": "Jimmy Carr",
         "time": "1:45.6",
         "seconds": 105.6,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jimmy_Carr"
       },
       {
@@ -1196,6 +1860,10 @@
         "name": "Hugh Jackman",
         "time": "1:46.1",
         "seconds": 106.1,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Hugh_Jackman"
       },
       {
@@ -1203,6 +1871,10 @@
         "name": "David Haye",
         "time": "1:46.7",
         "seconds": 106.7,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/David_Haye"
       },
       {
@@ -1210,6 +1882,10 @@
         "name": "Warwick Davis",
         "time": "1:46.8",
         "seconds": 106.8,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Warwick_Davis"
       },
       {
@@ -1217,6 +1893,10 @@
         "name": "Benedict Cumberbatch",
         "time": "1.47.8",
         "seconds": 107.8,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Benedict_Cumberbatch"
       },
       {
@@ -1224,6 +1904,10 @@
         "name": "Rachel Riley",
         "time": "1:48.5",
         "seconds": 108.5,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Rachel_Riley"
       },
       {
@@ -1231,6 +1915,10 @@
         "name": "Charles Dance",
         "time": "1:48.8",
         "seconds": 108.8,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Charles_Dance"
       },
       {
@@ -1238,6 +1926,10 @@
         "name": "Joss Stone",
         "time": "1:48.9",
         "seconds": 108.9,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Joss_Stone"
       },
       {
@@ -1245,6 +1937,10 @@
         "name": "James Blunt",
         "time": "1:49.4",
         "seconds": 109.4,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/James_Blunt"
       },
       {
@@ -1252,6 +1948,10 @@
         "name": "Ron Howard",
         "time": "1:49.9",
         "seconds": 109.9,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Ron_Howard"
       },
       {
@@ -1259,6 +1959,10 @@
         "name": "Tom Hiddleston",
         "time": "1:49.9",
         "seconds": 109.9,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Tom_Hiddleston"
       },
       {
@@ -1266,6 +1970,10 @@
         "name": "Hugh Bonneville",
         "time": "1:50.1",
         "seconds": 110.1,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Hugh_Bonneville"
       },
       {
@@ -1273,6 +1981,10 @@
         "name": "Steven Tyler",
         "time": "1:51.0",
         "seconds": 111,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Steven_Tyler"
       },
       {
@@ -1280,6 +1992,10 @@
         "name": "Mike Rutherford",
         "time": "1:51.5",
         "seconds": 111.5,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Mike_Rutherford"
       },
       {
@@ -1287,6 +2003,10 @@
         "name": "Jack Whitehall",
         "time": "1.54.5",
         "seconds": 114.5,
+        "note": "",
+        "state": "dry",
+        "passenger": false,
+        "automatic": false,
         "url": "http://en.wikipedia.org/wiki/Jack_Whitehall"
       }
     ]
