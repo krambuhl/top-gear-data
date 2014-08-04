@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<head>
+  <title>data</title>
+  <meta charset="utf-8">
+
+  <script src="underscore.js"></script>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+  <style>
+    .bar {
+      display: block;
+      margin-bottom: 3px;
+    }
+
+  </style>
+</head>
+<body>
+
+<div id="stage" width="100%" height="100%"></div>
+
+<script>
+
+var stage = d3.select('#stage');
+
+d3.json('../data/powerlaps.json', function(err, json) {
+  var data = _.initial(json, 4);
+  var bars = stage.selectAll('div').data(data);
+
+  bars.enter().append('div');
+
+  var min = d3.min(_.pluck(data, 'seconds'));
+  var max = d3.max(_.pluck(data, 'seconds'));
+
+  console.log(min, max);
+
+
+  bars.transition()
+    .duration(500)
+    .attr('class', function(d) { return 'bar ' + d.weather.split(' ').join('-') })
+    .text(function(d) { return d.vehicle })
+    .style('background-color', function(d) { return getWeatherColor(d.weather)})
+    .style('width', function(d) { return (d.seconds / max) * 100 + "%";  });
+});
+
+function getWeatherColor(weather) {
+  return weatherColors[weather];
+}
+
+var weatherColors = {
+  'ice': '#1fddff',
+  'snow': '#28bdf4',
+  'melted snow': '#498ff2',
+  'very wet': '#619df2',
+  'wet': '#79acf2',
+  'moist': '#91baf2',
+  'mildly moist': '#a5c5f2',
+  'damp': '#b8d0f2',
+  'partly damp': '#c9daf2',
+  'cold': '#dae4f2',
+  'dry': '#eee',
+  'hot': '#b38075'
+};
+
+
+</script>
+
+
+</body>
+</html>

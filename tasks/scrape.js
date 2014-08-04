@@ -1,8 +1,11 @@
 var fs = require('fs');
+
+var _ = require('underscore');
+
 var request = require('request');
 var cheerio = require('cheerio');
-var $ = require('jquery');
-var _ = require('underscore');
+var json2csv = require('json2csv');
+
 
 var starlaps = [];
 var powerlaps = {};
@@ -115,6 +118,18 @@ function scrapeStarList(items, title) {
 	};
 }
 
+function getAllKeys(data) {
+	var keys = [];
+	if (_.isArray(data)) {
+		_.each(data, function (row) {
+			keys.push(getAllKeys(row));
+		});
+	} else if (_.isObject(data)) {
+		keys.push(_.keys(data));
+	}
+	return _.unique(_.flatten(keys));
+}
+
 function scrapeStarData(el) {
 	var root = el.parent();
 	var listItems = root.next().find('li');
@@ -134,7 +149,10 @@ request(starUrl, function(error, response, html){
 			starlaps.push(data);
 		});
 
+
+	// console.log(getAllKeys(starlaps));
 		fs.writeFile('data/starlaps.json', JSON.stringify(starlaps, null, 2));
+		// json2csv({data: starlaps, fields: getAllKeys(starlaps)}, function(err, csv) { console.log(err); });
 	}
 });
 
@@ -204,7 +222,16 @@ request(powerUrl, function(error, response, html){
 	if(!error){
 		var $ = cheerio.load(html);
 		var table = $('#Qualifying_vehicles').parent().nextAll('table').eq(0);
+		var powerLaps = scrapePowerData(table);
 
-		fs.writeFile('data/powerlaps.json', JSON.stringify(scrapePowerData(table), null, 2));
+		json2csv({data: powerLaps, fields: getAllKeys(powerLaps)}, function(err, csv) {
+			if (err) {
+				console.log(err);
+			} else {
+				fs.writeFile('data/powerlaps.csv', csv);
+			}
+		});
+
+		fs.writeFile('data/powerlaps.json', JSON.stringify(powerLaps), null, 2);
 	}
 });
